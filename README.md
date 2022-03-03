@@ -11,7 +11,7 @@ Personal useful EM notes
 
 ## Trust & Clarity
 
-# Pracices and Good Ideas
+# Good Practices and Ideas
 
 ## People & Team Management
 
